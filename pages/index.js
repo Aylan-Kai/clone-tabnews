@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Vamo q vamo meu bom. commit dnovo</h1>;
+  return <h1>Em construção</h1>;
 }
 export default Home;
